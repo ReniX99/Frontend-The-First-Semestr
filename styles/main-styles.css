@@ -1,0 +1,46 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.header-content {
+  background-color: #ff7b00;
+}
+
+.header img {
+  height: 30px;
+  width: 30px;
+}
+
+.nav-content {
+  background-color: #ff9500;
+}
+
+.nav-dropdown {
+  background-color: #ff9500 !important;
+}
+
+.aside {
+  background-color: #ff7b00;
+}
+
+.aside h2 {
+  font-size: 18px;
+}
+
+.main-content {
+  background-color: #ffaa00;
+}
+
+.main-content img {
+  width: 400px;
+}
+
+.footer-content {
+  background-color: #ff9500;
+}
+
+.footer-content img {
+  height: 30px;
+  width: 30px;
+}
